@@ -1,2 +1,0 @@
-# mistaproxy
-Begin app
